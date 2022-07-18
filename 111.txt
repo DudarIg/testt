@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ветка 3
+=======
+dsasa dsasd dsasd dsasd asd
+>>>>>>> master
